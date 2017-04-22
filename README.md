@@ -1,2 +1,2 @@
-# finance_ML
-Machine Learning for Finance
+# finance_py
+Python implementation in Finance
